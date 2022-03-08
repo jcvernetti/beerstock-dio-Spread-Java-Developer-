@@ -1,0 +1,1 @@
+Esse projeto faz parte dos desafios do Bootcamp Dio-Spread-Java-Developer e consiste na construção de testes unitários para validar um sistema de gerenciamento de estoques de cerveja desenvolvido em Spring Boot.
